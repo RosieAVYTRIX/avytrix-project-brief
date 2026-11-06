@@ -75,7 +75,7 @@ Dùng HTML/CSS/JavaScript thuần để bản demo gọn, dễ đọc và triể
 
 ## Kiểm chứng
 
-Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả bốn thời lượng, xuất đầy đủ phạm vi/tiêu chí nghiệm thu và xử lý brief trống. Kiểm tra thủ công trên trình duyệt bao gồm nạp mẫu, chỉnh nội dung, lưu nháp sau tải lại, xuất Markdown và bố cục điện thoại.
+Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả bốn thời lượng, xuất đầy đủ phạm vi/tiêu chí nghiệm thu và xử lý brief trống. Kiểm tra thủ công trên trình duyệt bao gồm nạp mẫu, chỉnh nội dung, lưu nháp sau tải lại, xuất Markdown. Kiểm tra giao diện điện thoại bằng công cụ tự động bị gián đoạn; phần responsive chưa được xác minh đầy đủ trên thiết bị thực.
 
 ## Hướng phát triển
 
