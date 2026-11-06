@@ -5,7 +5,7 @@
 
 Công cụ tạo project brief dành cho cuộc trao đổi đầu tiên giữa chủ dự án và đối tác triển khai.
 
-**[Dùng thử ngay](https://avytrix-project-brief.phuongleproea.chatgpt.site)** · [Đề xuất hợp tác](https://github.com/phuongleproea-blip/phuongleproea-blip/issues/new)
+**[Dùng thử ngay](https://avytrix-project-brief.phuongleproea.chatgpt.site)** · [Đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new)
 
 </div>
 
@@ -37,7 +37,7 @@ Một ý tưởng ban đầu thường thiếu đối tượng sử dụng, ph�
 Yêu cầu Python 3; Node.js 18 trở lên chỉ cần cho kiểm tra tự động.
 
 ```bash
-git clone https://github.com/phuongleproea-blip/avytrix-project-brief.git
+git clone https://github.com/RosieAVYTRIX/avytrix-project-brief.git
 cd avytrix-project-brief
 python3 -m http.server 4173 --directory dist
 ```
@@ -93,4 +93,4 @@ Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả
 
 ## Hợp tác với AVYTRIX
 
-[Chia sẻ đề xuất hợp tác](https://github.com/phuongleproea-blip/phuongleproea-blip/issues/new): bài toán, người sử dụng, kết quả mong muốn và phạm vi bạn muốn thử nghiệm.
+[Chia sẻ đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new): bài toán, người sử dụng, kết quả mong muốn và phạm vi bạn muốn thử nghiệm.
