@@ -1,6 +1,6 @@
 <div align="center">
 
-# AVYTRIX Project Brief
+# RosieAVYTRIX Project Brief
 ### Ý tưởng tốt. Khởi đầu rõ ràng.
 
 Công cụ tạo project brief dành cho cuộc trao đổi đầu tiên giữa chủ dự án và đối tác triển khai.
@@ -9,7 +9,7 @@ Công cụ tạo project brief dành cho cuộc trao đổi đầu tiên giữa 
 
 </div>
 
-> Demo portfolio do AVYTRIX khởi tạo, phát triển với sự hỗ trợ của Codex. Đây là bản thử nghiệm sản phẩm, chưa phải dự án khách hàng hoặc bằng chứng kết quả kinh doanh.
+> Demo portfolio do RosieAVYTRIX khởi tạo, phát triển với sự hỗ trợ của Codex. Đây là bản thử nghiệm sản phẩm, chưa phải dự án khách hàng hoặc bằng chứng kết quả kinh doanh.
 
 ## Bài toán
 
@@ -21,6 +21,10 @@ Một ý tưởng ban đầu thường thiếu đối tượng sử dụng, ph�
 2. Đổi tên dự án, mục tiêu, đối tượng sử dụng và phạm vi MVP.
 3. Quan sát bản xem trước và lộ trình thay đổi ngay.
 4. Chọn **Tải brief .md** hoặc **Sao chép** để chia sẻ với đối tác.
+
+## Nhận diện thương hiệu
+
+Tên giao diện, nội dung xuất và liên kết GitHub đã đồng bộ thành **RosieAVYTRIX**. URL hosting và khóa lưu nháp được giữ để các bản nháp hiện có tiếp tục sử dụng.
 
 ## Tính năng
 
@@ -91,6 +95,6 @@ Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả
 - Nhập lại tệp Markdown hoặc JSON.
 - Cộng tác và tiếp nhận yêu cầu phía máy chủ sau khi thống nhất cách xử lý dữ liệu.
 
-## Hợp tác với AVYTRIX
+## Hợp tác với RosieAVYTRIX
 
 [Chia sẻ đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new): bài toán, người sử dụng, kết quả mong muốn và phạm vi bạn muốn thử nghiệm.
