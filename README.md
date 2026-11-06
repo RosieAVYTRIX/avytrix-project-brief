@@ -5,7 +5,7 @@
 
 Công cụ tạo project brief dành cho cuộc trao đổi đầu tiên giữa chủ dự án và đối tác triển khai.
 
-**[Dùng thử ngay](https://avytrix-project-brief.phuongleproea.chatgpt.site)** · [Đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new)
+**[Dùng thử ngay](https://rosieavytrix-project-brief.phuongleproea.chatgpt.site)** · [Đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new)
 
 </div>
 
@@ -24,7 +24,7 @@ Một ý tưởng ban đầu thường thiếu đối tượng sử dụng, ph�
 
 ## Nhận diện thương hiệu
 
-Tên giao diện, nội dung xuất và liên kết GitHub đã đồng bộ thành **RosieAVYTRIX**. URL hosting và khóa lưu nháp được giữ để các bản nháp hiện có tiếp tục sử dụng.
+Tên giao diện, nội dung xuất và liên kết GitHub đã đồng bộ thành **RosieAVYTRIX**. URL demo sử dụng tiền tố `rosieavytrix`. Khóa lưu nháp vẫn giữ nguyên, nhưng nháp thuộc hostname cũ không tự chuyển sang hostname mới. Xuất bản sao tại URL cũ nếu bạn vẫn đang mở trang đó và cần giữ nội dung.
 
 ## Tính năng
 
