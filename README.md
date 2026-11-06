@@ -75,7 +75,15 @@ Dùng HTML/CSS/JavaScript thuần để bản demo gọn, dễ đọc và triể
 
 ## Kiểm chứng
 
-Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả bốn thời lượng, xuất đầy đủ phạm vi/tiêu chí nghiệm thu và xử lý brief trống. Kiểm tra thủ công trên trình duyệt bao gồm nạp mẫu, chỉnh nội dung, lưu nháp sau tải lại, xuất Markdown. Kiểm tra giao diện điện thoại bằng công cụ tự động bị gián đoạn; phần responsive chưa được xác minh đầy đủ trên thiết bị thực.
+Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả bốn thời lượng, xuất đầy đủ phạm vi/tiêu chí nghiệm thu và xử lý brief trống. Kiểm tra thủ công trên trình duyệt bao gồm nạp mẫu, chỉnh nội dung, lưu nháp sau tải lại, xuất Markdown.
+
+### Kiểm tra giao diện v1.1
+
+- Đã kiểm tra viewport 320, 360, 390, 430, 768 và 1280px bằng trình duyệt tích hợp. Không phát hiện cuộn ngang.
+- Trên mobile: ô chọn xếp một cột, chữ nhập liệu 16px, vùng chạm của phạm vi/nút xuất/nút xóa tối thiểu 44px.
+- Điều hướng nhanh giữa nhập nội dung và bản xem trước; lộ trình chia hai cột trên màn hình nhỏ.
+- Đã xác minh nạp mẫu, đổi tên/thời lượng, chọn Dashboard, khôi phục nháp sau tải lại, sao chép đúng nội dung và tải tệp Markdown.
+- Đây là kiểm tra viewport trên trình duyệt desktop; chưa thay thế kiểm tra Safari/iOS và Android trên thiết bị thật.
 
 ## Hướng phát triển
 
