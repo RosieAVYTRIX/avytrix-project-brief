@@ -34,3 +34,11 @@
 
 /* RosieAVYTRIX wordmark on narrow headers. */
 @media(max-width:480px){header{padding-inline:16px}.brand{font-size:25px;gap:9px}.brand>span{font-size:14px;letter-spacing:.7px}header nav{font-size:12px;gap:10px}.doc-footer strong{letter-spacing:1px}}
+
+/* Return to the RosieAVYTRIX portfolio without crowding the demo header. */
+.portfolio-bar{max-width:1440px;margin:auto;padding:7px 6%;border-bottom:1px solid var(--line)}
+.portfolio-return{display:inline-flex;align-items:center;min-height:44px;padding:0 13px;border:1px solid var(--line);border-radius:7px;background:#fff;color:var(--green);font-size:12px;font-weight:600;text-decoration:none}
+.portfolio-return:hover{background:#edf3df;text-decoration:none}
+@media(max-width:800px){.portfolio-bar{padding:6px 18px}}
+@media(max-width:480px){.portfolio-bar{padding-inline:16px}}
+@media print{.portfolio-bar{display:none}}
