@@ -5,7 +5,7 @@
 
 Công cụ tạo project brief dành cho cuộc trao đổi đầu tiên giữa chủ dự án và đối tác triển khai.
 
-**[Dùng thử ngay](https://rosieavytrix-project-brief.phuongleproea.chatgpt.site)** · [Đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new)
+**[Dùng thử ngay](https://rosieavytrix.github.io/avytrix-project-brief/)** · [Đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new)
 
 </div>
 
@@ -24,7 +24,7 @@ Một ý tưởng ban đầu thường thiếu đối tượng sử dụng, ph�
 
 ## Nhận diện thương hiệu
 
-Tên giao diện, nội dung xuất và liên kết GitHub đã đồng bộ thành **RosieAVYTRIX**. URL demo sử dụng tiền tố `rosieavytrix`. Khóa lưu nháp vẫn giữ nguyên, nhưng nháp thuộc hostname cũ không tự chuyển sang hostname mới. Xuất bản sao tại URL cũ nếu bạn vẫn đang mở trang đó và cần giữ nội dung.
+Tên giao diện, nội dung xuất và liên kết GitHub đã đồng bộ thành **RosieAVYTRIX**. Bản demo chính thức chạy miễn phí trên GitHub Pages dưới tên `rosieavytrix.github.io`. Nháp lưu trên trình duyệt tại hostname cũ không tự chuyển sang hostname mới.
 
 ## Tính năng
 
@@ -98,3 +98,7 @@ Ba kiểm tra tự động bao phủ lộ trình không bị hở ngày cho cả
 ## Hợp tác với RosieAVYTRIX
 
 [Chia sẻ đề xuất hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues/new): bài toán, người sử dụng, kết quả mong muốn và phạm vi bạn muốn thử nghiệm.
+
+## Xuất bản với GitHub Pages
+
+GitHub Actions chạy `npm test`, đóng gói riêng thư mục `dist/` và triển khai lên GitHub Pages sau mỗi thay đổi mã nguồn trên `main`. Trong Settings → Pages, nguồn xuất bản là **GitHub Actions**. Các đường dẫn asset dùng đường dẫn tương đối để chạy được dưới đường dẫn repo.
